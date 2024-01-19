@@ -1,1 +1,1 @@
-<a href="" target="_blank"> <img src="https://cdnb.artstation.com/p/assets/images/images/029/480/193/large/aaron-truehitt-faye-beach-f.jpg" alt="c" width="1200" height="400" /> </a>
+<a href="" target="_blank"> <img src="https://cdnb.artstation.com/p/assets/images/images/029/480/193/large/aaron-truehitt-faye-beach-f.jpg" alt="c" width="1200" height="500" /> </a>
